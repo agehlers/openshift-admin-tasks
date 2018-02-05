@@ -1,4 +1,8 @@
 
+https://blog.openshift.com/understanding-service-accounts-sccs/
+
+
+
 When an application is deployed it will run as a user ID unique to the project it is running in. This overrides the user ID which the application image defines it wants to be run as. That the application is run as a different user ID can result in it failing to start.
 
 The best solution is to build the application image so it can be run as an arbitrary user ID. This avoids the risks associated with having to run an application as the ``root`` user ID, or other fixed user ID which may be shared with applications in other projects.
