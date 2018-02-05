@@ -1,5 +1,9 @@
 
-https://blog.openshift.com/understanding-service-accounts-sccs/
+References:
+* https://blog.openshift.com/understanding-service-accounts-sccs/
+* https://docs.openshift.com/container-platform/3.6/admin_guide/manage_scc.html
+* https://docs.openshift.com/container-platform/3.6/install_config/persistent_storage/pod_security_context.html
+* https://docs.openshift.com/container-platform/3.6/install_config/storage_examples/privileged_pod_storage.html
 
 
 
