@@ -1,5 +1,6 @@
 
 References:
+* https://developers.redhat.com/blog/2016/10/21/understanding-openshift-security-context-constraints/
 * https://blog.openshift.com/understanding-service-accounts-sccs/
 * https://docs.openshift.com/container-platform/3.6/admin_guide/manage_scc.html
 * https://docs.openshift.com/container-platform/3.6/dev_guide/authorization.html
